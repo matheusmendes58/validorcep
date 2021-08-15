@@ -6,6 +6,6 @@ O usuario ira colocar o cep e a cidade sugerida então ira validar se a cidade s
 
 - Como Executar
 0. Antes de tudo esse script só funciona com internet  
-1. baixe os arquivos MAIN e MODEL (cep.bd é opcional mas é um banco de dados com alguns dados)
+1. baixe os arquivos MAIN e MODEL (cep.db é opcional mas é um banco de dados com alguns dados)
 2. Execute na ide Pycharm ou com python instalado na sua maquina preferencia python 3.9
 3. Primeiro execute o arquivo Main logo todo resto sera carregado junto com ele ou seja o banco e faça seus testes  
